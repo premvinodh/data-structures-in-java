@@ -48,7 +48,7 @@ Commits and their associated topics
 |	32.		| Number Pyramids									| _32NumberPyramid.java									|
 |	33.		| Number Pyramids									| _33NumberPyramid.java  								|
 |	34.		| Number Pyramids									| _34NumberPyramid.java									|
-|	35.		| Number Pyramids									|  														|
+|	35.		| Number Pyramids									| _35NumberPyramid.java									|
 |	36.		| Number Pyramids									|  														|
 |	37.		| Number Pyramids									|  														|
 -------------------------------------------------------------------------------------------------------------------------
