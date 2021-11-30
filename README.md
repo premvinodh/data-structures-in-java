@@ -28,7 +28,7 @@ Commits and their associated topics
 |	13.		| Basic Programs									| _13SmallestOfNNumbers.java							|
 |	14.		| Basic Programs									| _14LargestAndSmallestOfNNumbers.java					|
 |	15.		| Basic Programs									| _15FibonacciSeriesOfNNumbers.java						|
-|	16.		| Basic Programs									| 														|
+|	16.		| Basic Programs									| _16SumOfDigitsOfANumber.java							|
 |	17.		| Basic Programs									| 														|
 |	18.		| Basic Programs									| 														|
 |	19.		| Basic Programs									| 														|
