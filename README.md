@@ -25,7 +25,7 @@ Commits and their associated topics
 |	10.		| Basic Programs									| _10AlgebraicEqRootsUsingSwitch.java					|
 | 	11.		| Basic Programs		      						| _11SumAndProductOfNNumbers.java													|
 |	12.		| Basic Programs									| _12LargestOfNNumbers.java														|
-|	13.		| Basic Programs									| 														|
+|	13.		| Basic Programs									| _13SmallestOfNNumbers.java														|
 |	14.		| Basic Programs									| 														|
 |	15.		| Basic Programs									| 														|
 |	16.		| Basic Programs									| 														|
