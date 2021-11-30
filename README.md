@@ -35,7 +35,7 @@ Commits and their associated topics
 |	20.		| Basic Programs									| _20Prime.java											|
 | 	21.		| Basic Programs		      						| _21CountPrimes.java									|
 |	22.		| Basic Programs									| _22AllPrimesBetween1AndN.java			 				|
-|	23.		| Basic Programs									| 					 					 				|
+|	23.		| Basic Programs									| _23PerfectNumber.java					 					 				|
 |	24.		| Basic Programs									| 					 					 				|
 |	25.		| Basic Programs									| 					 					 				|
 |	26.		| Basic Programs									| 					 					 				|
