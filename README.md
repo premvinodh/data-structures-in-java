@@ -34,7 +34,7 @@ Commits and their associated topics
 |	19.		| Basic Programs									| _19Palindrome.java									|
 |	20.		| Basic Programs									| _20Prime.java											|
 | 	21.		| Basic Programs		      						| _21CountPrimes.java									|
-|	22.		| Basic Programs									| 					 					 				|
+|	22.		| Basic Programs									| _22AllPrimesBetween1AndN.java			 				|
 |	23.		| Basic Programs									| 					 					 				|
 |	24.		| Basic Programs									| 					 					 				|
 |	25.		| Basic Programs									| 					 					 				|
