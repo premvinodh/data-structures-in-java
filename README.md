@@ -39,6 +39,6 @@ Commits and their associated topics
 |	24.		| Basic Programs									| _24CoutPerfectNumbers.java			 				|
 |	25.		| Basic Programs									| _25AllPerfectsBetween1AndN.java		 				|
 |	26.		| Basic Programs									| _26FibonacciPrimes.java				 				|
-|	27.		| Basic Programs									| 														|
+|	27.		| Basic Programs									| _27MultiplicationTables.java														|
 |	28.		| Basic Programs									| 					 					 				|
 -------------------------------------------------------------------------------------------------------------------------
