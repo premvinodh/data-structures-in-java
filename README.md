@@ -32,7 +32,7 @@ Commits and their associated topics
 |	17.		| Basic Programs									| _17LengthOfANumber.java								|
 |	18.		| Basic Programs									| _18ReverseOfANumber.java								|
 |	19.		| Basic Programs									| _19Palindrome.java									|
-|	20.		| Basic Programs									| 														|
+|	20.		| Basic Programs									| _20Prime.java											|
 | 	21.		| Basic Programs		      						| 														|
 |	22.		| Basic Programs									| 					 					 				|
 |	23.		| Basic Programs									| 					 					 				|
