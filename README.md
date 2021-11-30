@@ -42,3 +42,13 @@ Commits and their associated topics
 |	27.		| Basic Programs									| _27MultiplicationTables.java							|
 |	28.		| Basic Programs									| _28MultiplicationTablesColumnWise.java 				|
 -------------------------------------------------------------------------------------------------------------------------
+|	29.		| Number Pyramids									| _29NumberPyramid.java 								|
+|	30.		| Number Pyramids									|  														|
+|	31.		| Number Pyramids									|  														|
+|	32.		| Number Pyramids									|  														|
+|	33.		| Number Pyramids									|   													|
+|	34.		| Number Pyramids									|  														|
+|	35.		| Number Pyramids									|  														|
+|	36.		| Number Pyramids									|  														|
+|	37.		| Number Pyramids									|  														|
+-------------------------------------------------------------------------------------------------------------------------
