@@ -41,7 +41,7 @@ Commits and their associated topics
 |	26.		| Basic Programs									| _26FibonacciPrimes.java				 				|
 |	27.		| Basic Programs									| _27MultiplicationTables.java							|
 |	28.		| Basic Programs									| _28MultiplicationTablesColumnWise.java 				|
--------------------------------------------------------------------------------------------------------------------------
+|:---------:|---------------------------------------------------:-------------------------------------------------------|
 |	29.		| Number Pyramids									| _29NumberPyramid.java 								|
 |	30.		| Number Pyramids									|  														|
 |	31.		| Number Pyramids									|  														|
